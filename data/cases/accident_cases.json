@@ -1,0 +1,232 @@
+[
+  {
+    "case_id": "차1-1",
+    "vehicle_A_situation": "녹색 직진",
+    "vehicle_B_situation": "적색 직진",
+    "accident_description": "신호기에 의해 교통정리가 이루어지고 있는 교차로에서 서로 다른 도로를 이용하여 녹색 신호에 교차로에 진입하여 직진 중인 A차량과 적색신호에 교차로에 진입하여 직진 중인 B 차량이 충돌한 사고이다.",
+    "fault_ratio": "A0 : B100",
+    "page_number": 1,
+    "sub_page_number": 1,
+    "crawled_at": "2025-08-07 11:14:48"
+  },
+  {
+    "case_id": "차1-2",
+    "vehicle_A_situation": "적색 충돌(녹색 직진 진입)",
+    "vehicle_B_situation": "녹색 직진",
+    "accident_description": "신호기에 의해 교통정리가 이루어지고 있는 교차로에서 서로 다른 방향을 이용하여 녹색 또는 황색신호에 교차로에 진입한 후 신호가 바뀔 때까지 아직 교차로를 벗어나지 못한 A 차량과 녹색신호에 교차로에 진입하여 직진 중인 B차량이 충돌한 사고이다.",
+    "fault_ratio": "A30 : B70",
+    "page_number": 1,
+    "sub_page_number": 2,
+    "crawled_at": "2025-08-07 11:14:48"
+  },
+  {
+    "case_id": "차1-3",
+    "vehicle_A_situation": "황색 직진",
+    "vehicle_B_situation": "적색 직진",
+    "accident_description": "신호기에 의해 교통정리가 이루어지고 있는 교차로에서 서로 다른 방향을 이용하여 황색 신호에 교차로에 진입하여 직진 중인 A차량과 적색신호에 교차로에 진입하여 직진 중인 B 차량이 충돌한 사고이다.",
+    "fault_ratio": "A30 : B70",
+    "page_number": 1,
+    "sub_page_number": 3,
+    "crawled_at": "2025-08-07 11:14:49"
+  },
+  {
+    "case_id": "차1-4",
+    "vehicle_A_situation": "적색 직진",
+    "vehicle_B_situation": "적색 직진",
+    "accident_description": "신호기에 의해 교통정리가 이루어지고 있는 교차로에서 서로 다른 방향을 이용하여 적색 신호에 교차로에 진입하여 직진 중인 A차량과 적색신호에 교차로에 진입하여 직진 중인 B 차량이 충돌한 사고이다.",
+    "fault_ratio": "A50 : B50",
+    "page_number": 1,
+    "sub_page_number": 4,
+    "crawled_at": "2025-08-07 11:14:50"
+  },
+  {
+    "case_id": "차1-5",
+    "vehicle_A_situation": "직진(적색점멸신호)",
+    "vehicle_B_situation": "직진(황색점멸신호)",
+    "accident_description": "적색점멸신호가 작동하는 도로에서 교차로에 진입하여 직진하는 A차량과 황색점멸신호가 작동하는 도로에서 교차로에 진입하여 직진하는 B차량이 충돌한 사고이다.",
+    "fault_ratio": "A70 : B30",
+    "page_number": 1,
+    "sub_page_number": 5,
+    "crawled_at": "2025-08-07 11:14:50"
+  },
+  {
+    "case_id": "차2-1",
+    "vehicle_A_situation": "적색 직진",
+    "vehicle_B_situation": "녹색화살표 좌회전",
+    "accident_description": "신호기에 의해 교통정리가 이루어지고 있는 교차로에서 적색신호에 직진하는 A차량과 맞 은편 방향에서 녹색좌회전 화살표 신호에 좌회전하는 B차량이 충돌한 사고이다.",
+    "fault_ratio": "A100 : B0",
+    "page_number": 2,
+    "sub_page_number": 1,
+    "crawled_at": "2025-08-07 11:14:51"
+  },
+  {
+    "case_id": "차2-2",
+    "vehicle_A_situation": "녹색 신호 직진",
+    "vehicle_B_situation": "녹색(적색)신호위반 좌회전",
+    "accident_description": "신호기에 의해 교통정리가 이루어지고 있는 교차로에서 녹색신호에 직진하는 A차량과 맞 은편 방향에서 녹색신호에 좌회전(비보호 좌회전이 아님) 또는 적색신호에 좌회전하는 좌 회전 신호위반 B차량이 충돌한 사고이다.",
+    "fault_ratio": "A0 : B100",
+    "page_number": 2,
+    "sub_page_number": 2,
+    "crawled_at": "2025-08-07 11:14:52"
+  },
+  {
+    "case_id": "차2-3",
+    "vehicle_A_situation": "황색직진",
+    "vehicle_B_situation": "녹색직진 신호에 좌회전 진입 후 황색에 충돌",
+    "accident_description": "신호기에 의해 교통정리가 이루어지고 있는 교차로에서 황색신호에 교차로에 진입하여 직 진 중인 A차량과 맞은편 주행방향에서 녹색직진신호에 진입하여 황색신호에 좌회전하는 B차량이 충돌한 사고이다.",
+    "fault_ratio": "A40 : B60",
+    "page_number": 2,
+    "sub_page_number": 3,
+    "crawled_at": "2025-08-07 11:14:53"
+  },
+  {
+    "case_id": "차2-4",
+    "vehicle_A_situation": "황(적)색 직진",
+    "vehicle_B_situation": "황(적)색 좌회전",
+    "accident_description": "신호기에 의해 교통정리가 이루어지고 있는 교차로에서 황색(적색)신호에 직진하는 A차량 과 맞은편 주행방향에서 황색(적색)신호에 좌회전하는 B차량이 충돌한 사고이다.",
+    "fault_ratio": "A50 : B50",
+    "page_number": 2,
+    "sub_page_number": 4,
+    "crawled_at": "2025-08-07 11:14:54"
+  },
+  {
+    "case_id": "차2-5",
+    "vehicle_A_situation": "녹색화살표에 좌회전 진입하였으나 적색에 충돌",
+    "vehicle_B_situation": "녹색 직진",
+    "accident_description": "신호기에 의해 교통정리가 이루어지고 있는 교차로에서 녹색화살표(황색) 신호에 교차로 에 진입하여 좌회전을 하였으나 신호가 바뀔 때까지 교차로를 벗어나지 못한 A차량과 맞 은편에서 녹색신호에 교차로에 진입하여 직진 중인 B차량이 충돌한 사고이다.",
+    "fault_ratio": "A30 : B70",
+    "page_number": 2,
+    "sub_page_number": 5,
+    "crawled_at": "2025-08-07 11:14:54"
+  },
+  {
+    "case_id": "차2-6",
+    "vehicle_A_situation": "녹색 비보호 좌회전",
+    "vehicle_B_situation": "녹색 직진",
+    "accident_description": "신호기에 의해 교통정리가 이루어지고 좌회전차량 방향에 비보호좌회전 표지가 있는 교차 로에서, 녹색신호에 비보호좌회전을 하는 A차량과, 맞은편에서 녹색신호에 교차로에 직진 진입하여 직진 중인 B차량이 충돌한 사고이다.",
+    "fault_ratio": "A90 : B10",
+    "page_number": 2,
+    "sub_page_number": 6,
+    "crawled_at": "2025-08-07 11:14:55"
+  },
+  {
+    "case_id": "차3-1",
+    "vehicle_A_situation": "적색 직진",
+    "vehicle_B_situation": "녹색화살표 좌회전",
+    "accident_description": "신호기에 의해 교통정리가 이루어지고 있는 교차로에서 적색신호에 직진하는 A 차량과 교 차로에서 녹색화살표 신호에 좌회전하는 B차량이 충돌한 사고이다.",
+    "fault_ratio": "A100 : B0",
+    "page_number": 3,
+    "sub_page_number": 1,
+    "crawled_at": "2025-08-07 11:14:56"
+  },
+  {
+    "case_id": "차3-2",
+    "vehicle_A_situation": "적색 직진",
+    "vehicle_B_situation": "적색 좌회전",
+    "accident_description": "신호기에 의해 교통정리가 이루어지고 있는 교차로에서 적색신호에 직진하는 A 차량과 교 차로에서 적색신호에 좌회전하는 B차량이 충돌한 사고이다.",
+    "fault_ratio": "A50 : B50",
+    "page_number": 3,
+    "sub_page_number": 2,
+    "crawled_at": "2025-08-07 11:14:56"
+  },
+  {
+    "case_id": "차3-3",
+    "vehicle_A_situation": "황색 직진",
+    "vehicle_B_situation": "적색 좌회전",
+    "accident_description": "신호기에 의해 교통정리가 이루어지고 있는 교차로에서 황색신호에 진입하여 직진 중인 A 차량과 교차도로에서 적색신호에 좌회전하는 B차량이 충돌한 사고이다.",
+    "fault_ratio": "A30 : B70",
+    "page_number": 3,
+    "sub_page_number": 3,
+    "crawled_at": "2025-08-07 11:14:57"
+  },
+  {
+    "case_id": "차3-4",
+    "vehicle_A_situation": "적색 직진",
+    "vehicle_B_situation": "황색 좌회전",
+    "accident_description": "신호기에 의해 교통정리가 이루어지고 있는 교차로에서 적색신호에 직진하는 A 차량과 교 차도로에서 황색신호에 진입하여 좌회전하는 B차량이 충돌한 사고이다.",
+    "fault_ratio": "A60 : B40",
+    "page_number": 3,
+    "sub_page_number": 4,
+    "crawled_at": "2025-08-07 11:14:58"
+  },
+  {
+    "case_id": "차3-5",
+    "vehicle_A_situation": "녹색화살표에 좌회전 진입 후 적색에 충돌",
+    "vehicle_B_situation": "녹색 직진",
+    "accident_description": "신호기에 의해 교통정리가 이루어지고 있는 교차로에서 녹색화살표(황색) 신호에 교차로 에 진입하여 좌회전을 하였으나 아직 교차로를 벗어나지 못한 A차량과 녹색신호에 교차로 에 진입하여 직진 중인 B차량이 충돌한 사고이다.",
+    "fault_ratio": "A30 : B70",
+    "page_number": 3,
+    "sub_page_number": 5,
+    "crawled_at": "2025-08-07 11:14:58"
+  },
+  {
+    "case_id": "차3-6",
+    "vehicle_A_situation": "녹색 직진",
+    "vehicle_B_situation": "적색 좌회전",
+    "accident_description": "신호기에 의해 교통정리가 이루어지고 있는 교차로에서 녹색신호에 직진하는 A차와 적색 신호에 좌회전하는 B차량이 충돌한 사고이다.",
+    "fault_ratio": "A0 : B100",
+    "page_number": 3,
+    "sub_page_number": 6,
+    "crawled_at": "2025-08-07 11:14:59"
+  },
+  {
+    "case_id": "차3-7",
+    "vehicle_A_situation": "좌회전(적색점멸신호)",
+    "vehicle_B_situation": "직진(황색점멸신호)",
+    "accident_description": "적색점멸신호가 작동하는 도로에서 교차로에 진입하여 좌회전하는 A차량과 황색점멸신호 가 작동하는 도로에서 교차로에 진입하여 직진하는 B차량이 충돌한 사고이다.",
+    "fault_ratio": "A80 : B20",
+    "page_number": 3,
+    "sub_page_number": 7,
+    "crawled_at": "2025-08-07 11:15:00"
+  },
+  {
+    "case_id": "차3-8",
+    "vehicle_A_situation": "직진(적색점멸신호)",
+    "vehicle_B_situation": "좌회전(황색점멸신호)",
+    "accident_description": "적색점멸신호가 작동하는 도로에서 교차로에 진입하여 직진하는 A차량과 황색점멸신호가 작동하는 도로에서 교차로에 진입하여 좌회전하는 B차량이 충돌한 사고이다.",
+    "fault_ratio": "A60 : B40",
+    "page_number": 3,
+    "sub_page_number": 8,
+    "crawled_at": "2025-08-07 11:15:00"
+  },
+  {
+    "case_id": "차4-1",
+    "vehicle_A_situation": "녹색화살표 좌회전",
+    "vehicle_B_situation": "맞은편 우회전",
+    "accident_description": "교차로에서 정상신호에 따라 좌회전하는 A차량과 맞은편에서 교차로 적색신호에 우회전 하는 B차량이 충돌한 사고이다.",
+    "fault_ratio": "A20 : B80",
+    "page_number": 4,
+    "sub_page_number": 1,
+    "crawled_at": "2025-08-07 11:15:01"
+  },
+  {
+    "case_id": "차4-2",
+    "vehicle_A_situation": "비보호 좌회전",
+    "vehicle_B_situation": "맞은편 우회전",
+    "accident_description": "신호기에 의해 교통정리가 이루어지고 한쪽 방향에 비보호좌회전 표지가 있는 교차로에서 녹색신호에 비보호좌회전을 하는 A차량과 맞은 편에서 우회전하는 B차량이 충돌한 사고 이다.",
+    "fault_ratio": "A60 : B40",
+    "page_number": 4,
+    "sub_page_number": 2,
+    "crawled_at": "2025-08-07 11:15:02"
+  },
+  {
+    "case_id": "차5-1",
+    "vehicle_A_situation": "우회전",
+    "vehicle_B_situation": "직진(녹색)",
+    "accident_description": "신호기에 의한 교통정리가 한쪽 방향에만 이루어지고 있는 교차로에서 신호기가 없는 도 로를 이용하여 우회전하는 A차량과 신호기가 있는 교차도로를 이용하여 직진하는 B차량 이 충돌한 사고이다.",
+    "fault_ratio": "A80 : B20",
+    "page_number": 5,
+    "sub_page_number": 1,
+    "crawled_at": "2025-08-07 11:15:02"
+  },
+  {
+    "case_id": "차5-2",
+    "vehicle_A_situation": "횡단보도 보행자신호 우회전",
+    "vehicle_B_situation": "녹색 직진",
+    "accident_description": "양 방향 모두 신호기에 의한 교통정리가 이루어지고 있는 교차로에서 횡단보도 보행자신 호에 우회전하는 A차량과 녹색신호에 직진하는 B차량이 충돌한 사고이다.",
+    "fault_ratio": "A100 : B0",
+    "page_number": 5,
+    "sub_page_number": 2,
+    "crawled_at": "2025-08-07 11:15:03"
+  }
+]

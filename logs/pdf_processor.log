@@ -1,0 +1,12 @@
+2025-08-06 16:20:52.878 | INFO     | __main__:process_all_documents:35 - 법률 문서 처리 시작: data\laws
+2025-08-06 16:20:52.878 | INFO     | __main__:process_all_documents:43 - 처리 중: (최종)과실비율심의사례_(54MB).pdf
+2025-08-06 16:20:52.949 | ERROR    | __main__:_extract_pdf_text:101 - PDF 추출 실패 (최종)과실비율심의사례_(54MB).pdf: PyCryptodome is required for AES algorithm
+2025-08-06 16:20:52.949 | WARNING  | __main__:_process_single_document:70 - 빈 문서: (최종)과실비율심의사례_(54MB).pdf
+2025-08-06 16:20:52.950 | INFO     | __main__:process_all_documents:43 - 처리 중: 231107_과실비율인정기준_온라인용.pdf
+2025-08-06 16:20:53.026 | ERROR    | __main__:_extract_pdf_text:101 - PDF 추출 실패 231107_과실비율인정기준_온라인용.pdf: PyCryptodome is required for AES algorithm
+2025-08-06 16:20:53.027 | WARNING  | __main__:_process_single_document:70 - 빈 문서: 231107_과실비율인정기준_온라인용.pdf
+2025-08-06 16:20:53.028 | INFO     | __main__:process_all_documents:43 - 처리 중: 교통사고 과실상계 절차와 근거.pdf
+2025-08-06 16:20:53.715 | WARNING  | __main__:_process_single_document:70 - 빈 문서: 교통사고 과실상계 절차와 근거.pdf
+2025-08-06 16:20:53.715 | INFO     | __main__:process_all_documents:43 - 처리 중: 도로교통법(법률)(제20677호)(20250722).pdf
+2025-08-06 16:20:54.494 | INFO     | __main__:_save_processed_documents:248 - 처리된 문서 저장 완료: data\processed\processed_legal_documents.json
+2025-08-06 16:20:54.494 | INFO     | __main__:process_all_documents:54 - 문서 처리 완료: 총 1개 문서
